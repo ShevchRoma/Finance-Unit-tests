@@ -1,0 +1,387 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should create App  with tickers items 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="wrapper"
+      >
+        <div
+          class="app"
+        >
+          <div
+            class="app__body"
+          >
+            <div
+              class="app__top top"
+            >
+              <div
+                class="container"
+              >
+                <div
+                  class="top__body"
+                >
+                  <div
+                    class="top__column column-top"
+                  >
+                    <div
+                      class="column-top__row"
+                    >
+                      <div
+                        class="column-top__dot"
+                      />
+                      <p
+                        class="column-top__name"
+                      >
+                        15:40
+                      </p>
+                    </div>
+                    <div
+                      class="column-top__row"
+                    >
+                      <div
+                        class="column-top__percent"
+                      >
+                        Time
+                      </div>
+                      <div
+                        class="column-top__coefficient"
+                      >
+                        Decor
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="app__bottom bottom"
+            >
+              <div
+                class="container"
+              >
+                <button>
+                  Click Me To start
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="wrapper"
+    >
+      <div
+        class="app"
+      >
+        <div
+          class="app__body"
+        >
+          <div
+            class="app__top top"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="top__body"
+              >
+                <div
+                  class="top__column column-top"
+                >
+                  <div
+                    class="column-top__row"
+                  >
+                    <div
+                      class="column-top__dot"
+                    />
+                    <p
+                      class="column-top__name"
+                    >
+                      15:40
+                    </p>
+                  </div>
+                  <div
+                    class="column-top__row"
+                  >
+                    <div
+                      class="column-top__percent"
+                    >
+                      Time
+                    </div>
+                    <div
+                      class="column-top__coefficient"
+                    >
+                      Decor
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="app__bottom bottom"
+          >
+            <div
+              class="container"
+            >
+              <button>
+                Click Me To start
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`App should create App 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="wrapper"
+      >
+        <div
+          class="app"
+        >
+          <div
+            class="app__body"
+          >
+            <div
+              class="app__top top"
+            >
+              <div
+                class="container"
+              >
+                <div
+                  class="top__body"
+                >
+                  <div
+                    class="top__column column-top"
+                  >
+                    <div
+                      class="column-top__row"
+                    >
+                      <div
+                        class="column-top__dot"
+                      />
+                      <p
+                        class="column-top__name"
+                      >
+                        15:40
+                      </p>
+                    </div>
+                    <div
+                      class="column-top__row"
+                    >
+                      <div
+                        class="column-top__percent"
+                      >
+                        Time
+                      </div>
+                      <div
+                        class="column-top__coefficient"
+                      >
+                        Decor
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="app__bottom bottom"
+            >
+              <div
+                class="container"
+              >
+                <button>
+                  Click Me To start
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="wrapper"
+    >
+      <div
+        class="app"
+      >
+        <div
+          class="app__body"
+        >
+          <div
+            class="app__top top"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="top__body"
+              >
+                <div
+                  class="top__column column-top"
+                >
+                  <div
+                    class="column-top__row"
+                  >
+                    <div
+                      class="column-top__dot"
+                    />
+                    <p
+                      class="column-top__name"
+                    >
+                      15:40
+                    </p>
+                  </div>
+                  <div
+                    class="column-top__row"
+                  >
+                    <div
+                      class="column-top__percent"
+                    >
+                      Time
+                    </div>
+                    <div
+                      class="column-top__coefficient"
+                    >
+                      Decor
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="app__bottom bottom"
+          >
+            <div
+              class="container"
+            >
+              <button>
+                Click Me To start
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

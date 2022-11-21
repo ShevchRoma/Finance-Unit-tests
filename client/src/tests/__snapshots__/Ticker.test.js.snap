@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ticker.js snapshot renders correctly, falsy values 1`] = `
+<div
+  className="bottom__column"
+>
+  <div
+    className="bottom__name"
+  >
+    <div
+      className="bottom__icon"
+    >
+      <span />
+    </div>
+    <div
+      className="bottom__title"
+    />
+  </div>
+  <div
+    className="bottom__price"
+  >
+    <p />
+    <span>
+      $
+    </span>
+  </div>
+  <div
+    className="bottom__rate"
+  >
+    <p />
+    <span>
+      $
+    </span>
+  </div>
+  <div
+    className="bottom__change"
+  >
+    <p>
+      %
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Ticker.js snapshot renders correctly, truthy values 1`] = `
+<div
+  className="bottom__column"
+>
+  <div
+    className="bottom__name"
+  >
+    <div
+      className="bottom__icon"
+    >
+      <span />
+    </div>
+    <div
+      className="bottom__title"
+    />
+  </div>
+  <div
+    className="bottom__price"
+  >
+    <p />
+    <span>
+      $
+    </span>
+  </div>
+  <div
+    className="bottom__rate"
+  >
+    <p />
+    <span>
+      $
+    </span>
+  </div>
+  <div
+    className="bottom__change"
+  >
+    <p>
+      %
+    </p>
+  </div>
+</div>
+`;

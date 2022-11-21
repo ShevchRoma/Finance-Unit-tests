@@ -1,0 +1,43 @@
+.bottom__column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.bottom__column > * {
+  flex: 20%;
+}
+.bottom__column:last-child {
+  margin-bottom: 0;
+}
+.bottom__name {
+  display: flex;
+  flex: 70%;
+  align-items: center;
+}
+.bottom__icon {
+  padding: 4px 8px;
+  margin-right: 14px;
+  background: rgb(99, 98, 98);
+  border-radius: 5px;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+}
+.bottom__icon:last-child {
+  background: red;
+}
+.bottom__icon > span {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+}
+.bottom__title {
+  font-weight: bold;
+}
+.bottom__price {
+  display: flex;
+}
+.bottom__rate {
+  display: flex;
+}
